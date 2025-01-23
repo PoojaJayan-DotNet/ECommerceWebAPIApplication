@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1bumii21xRNTuv3YVLgO+FkplZxVADVqolMYjmWDjbs=",
+  "Source": "ECommerceWebAPIApplication",
+  "BasePath": "_content/ECommerceWebAPIApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

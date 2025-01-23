@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "ECommerceWebAPIApplication.Controllers.CustomerController",
+    "Method": "TestDbConnection",
+    "RelativePath": "dbconnectintest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ECommerceWebAPIApplication.Controllers.CustomerController",
+    "Method": "GetRecentOrder",
+    "RelativePath": "getrecentorder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestDto",
+        "Type": "ECommerceApplication.Domain.DTOs.OrderRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ECommerceWebAPIApplication.Controllers.CustomerController",
+    "Method": "TestAPI",
+    "RelativePath": "testapi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

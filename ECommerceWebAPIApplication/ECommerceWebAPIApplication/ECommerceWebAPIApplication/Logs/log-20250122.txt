@@ -1,0 +1,6 @@
+2025-01-22 19:35:56.703 +05:30 [ERR] The method or operation is not implemented.
+2025-01-22 19:36:38.570 +05:30 [ERR]    at ECommerceWebAPIApplication.Controllers.CustomerController.GetRecentOrder(OrderRequestDto requestDto) in D:\ECommerceWebAPIApplication\ECommerceWebAPIApplication\ECommerceWebAPIApplication\Controllers\CustomerController.cs:line 54
+2025-01-22 19:51:36.234 +05:30 [ERR] Error - $The method or operation is not implemented. 
+ $   at ECommerceWebAPIApplication.Controllers.CustomerController.GetRecentOrder(OrderRequestDto requestDto) in D:\ECommerceWebAPIApplication\ECommerceWebAPIApplication\ECommerceWebAPIApplication\Controllers\CustomerController.cs:line 54
+2025-01-22 19:53:07.891 +05:30 [ERR] Error - The method or operation is not implemented. 
+    at ECommerceWebAPIApplication.Controllers.CustomerController.TestAPI() in D:\ECommerceWebAPIApplication\ECommerceWebAPIApplication\ECommerceWebAPIApplication\Controllers\CustomerController.cs:line 28

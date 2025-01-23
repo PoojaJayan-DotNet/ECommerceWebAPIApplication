@@ -1,0 +1,11 @@
+D:\ECommerceWebAPIApplication\ECommerceWebAPIApplication\ECommerceApplication.Domain\bin\Debug\net8.0\ECommerceApplication.Domain.deps.json
+D:\ECommerceWebAPIApplication\ECommerceWebAPIApplication\ECommerceApplication.Domain\bin\Debug\net8.0\ECommerceApplication.Domain.dll
+D:\ECommerceWebAPIApplication\ECommerceWebAPIApplication\ECommerceApplication.Domain\bin\Debug\net8.0\ECommerceApplication.Domain.pdb
+D:\ECommerceWebAPIApplication\ECommerceWebAPIApplication\ECommerceApplication.Domain\obj\Debug\net8.0\ECommerceApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ECommerceWebAPIApplication\ECommerceWebAPIApplication\ECommerceApplication.Domain\obj\Debug\net8.0\ECommerceApplication.Domain.AssemblyInfoInputs.cache
+D:\ECommerceWebAPIApplication\ECommerceWebAPIApplication\ECommerceApplication.Domain\obj\Debug\net8.0\ECommerceApplication.Domain.AssemblyInfo.cs
+D:\ECommerceWebAPIApplication\ECommerceWebAPIApplication\ECommerceApplication.Domain\obj\Debug\net8.0\ECommerceApplication.Domain.csproj.CoreCompileInputs.cache
+D:\ECommerceWebAPIApplication\ECommerceWebAPIApplication\ECommerceApplication.Domain\obj\Debug\net8.0\ECommerceApplication.Domain.dll
+D:\ECommerceWebAPIApplication\ECommerceWebAPIApplication\ECommerceApplication.Domain\obj\Debug\net8.0\refint\ECommerceApplication.Domain.dll
+D:\ECommerceWebAPIApplication\ECommerceWebAPIApplication\ECommerceApplication.Domain\obj\Debug\net8.0\ECommerceApplication.Domain.pdb
+D:\ECommerceWebAPIApplication\ECommerceWebAPIApplication\ECommerceApplication.Domain\obj\Debug\net8.0\ref\ECommerceApplication.Domain.dll
