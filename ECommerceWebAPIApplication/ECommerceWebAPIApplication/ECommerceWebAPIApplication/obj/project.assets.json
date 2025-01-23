@@ -3329,11 +3329,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication.csproj",
+      "projectUniqueName": "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication.csproj",
       "projectName": "ECommerceWebAPIApplication",
-      "projectPath": "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication.csproj",
+      "projectPath": "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication.csproj",
       "packagesPath": "C:\\Users\\pooja.jayan\\.nuget\\packages\\",
-      "outputPath": "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\obj\\",
+      "outputPath": "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -3355,11 +3355,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceApplication.Domain\\ECommerceApplication.Domain.csproj": {
-              "projectPath": "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceApplication.Domain\\ECommerceApplication.Domain.csproj"
+            "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceApplication.Domain\\ECommerceApplication.Domain.csproj": {
+              "projectPath": "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceApplication.Domain\\ECommerceApplication.Domain.csproj"
             },
-            "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceApplication.Presentation\\ECommerceApplication.Infrastructure.csproj": {
-              "projectPath": "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceApplication.Presentation\\ECommerceApplication.Infrastructure.csproj"
+            "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceApplication.Presentation\\ECommerceApplication.Infrastructure.csproj": {
+              "projectPath": "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceApplication.Presentation\\ECommerceApplication.Infrastructure.csproj"
             }
           }
         }

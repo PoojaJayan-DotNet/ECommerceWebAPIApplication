@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceApplication.Domain\\ECommerceApplication.Domain.csproj": {}
+    "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceApplication.Domain\\ECommerceApplication.Domain.csproj": {}
   },
   "projects": {
-    "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceApplication.Domain\\ECommerceApplication.Domain.csproj": {
+    "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceApplication.Domain\\ECommerceApplication.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceApplication.Domain\\ECommerceApplication.Domain.csproj",
+        "projectUniqueName": "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceApplication.Domain\\ECommerceApplication.Domain.csproj",
         "projectName": "ECommerceApplication.Domain",
-        "projectPath": "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceApplication.Domain\\ECommerceApplication.Domain.csproj",
+        "projectPath": "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceApplication.Domain\\ECommerceApplication.Domain.csproj",
         "packagesPath": "C:\\Users\\pooja.jayan\\.nuget\\packages\\",
-        "outputPath": "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceApplication.Domain\\obj\\",
+        "outputPath": "D:\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceWebAPIApplication\\ECommerceApplication.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
